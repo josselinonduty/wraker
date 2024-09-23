@@ -1,3 +1,15 @@
+> [!CAUTION]
+> **Legacy repo**
+>
+> This repo is the legacy repo for WrakerJS.
+> Please check out https://github.com/wrakerjs/core for the updated package:
+> ```bash
+> npm install @wraker/core@<version|latest>
+> ```
+>
+> No support will be given for this repo and its versions (*v0.1.0..v0.5.2*)
+
+
 # Wraker
 
 [![josselinonduty - wraker](https://img.shields.io/static/v1?label=josselinonduty&message=wraker&color=blueviolet&logo=github)](https://github.com/josselinonduty/wraker "Go to GitHub repo")
